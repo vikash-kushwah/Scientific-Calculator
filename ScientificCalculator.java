@@ -1,6 +1,4 @@
-// ScientificCalculator  by VIKASH KUSHWAHA(PCE22CS182) & SAPNA KUMARI(PCE22CS140)
-// 2nd YEAR
-// SEC-C
+// ScientificCalculator  by VIKASH KUSHWAHA
 
 import javax.swing.*;
 import javax.swing.border.BevelBorder;
